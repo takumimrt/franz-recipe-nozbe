@@ -1,0 +1,12 @@
+{
+  "id": "nozbe",
+  "name": "Nozbe",
+  "version": "1.0.0",
+  "description": "Nozbe",
+  "main": "index.js",
+  "author": "Takumi Morita <takumi-morita@comute.jp>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.nozbe.com/#na"
+  }
+}
